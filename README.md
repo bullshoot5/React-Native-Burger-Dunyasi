@@ -12,4 +12,3 @@
 # Ekran görüntüsü
 
 # ![](bes.gif)
-# React-Native-Burger-Dunyasi
